@@ -67,11 +67,11 @@ Completed and activated. Both automation scenarios are configured for automatic 
 
 ## Screenshots
 
-### 1. Appointment Booking Workflow
-![Booking Scenario](documentation/booking-scenario.png)
-
-### 2. Appointment Booking Form
+### 1. Appointment Booking Form
 ![Google Form](documentation/google-form.png)
+
+### 2. Appointment Booking Workflow
+![Booking Scenario](documentation/booking-scenario.png)
 
 ### 3. Appointment Tracking Spreadsheet
 ![Google Sheet](documentation/google-sheet.png)
