@@ -116,9 +116,7 @@ Both automation scenarios have been configured for automatic execution and teste
 
 ### 6. Appointment Reminder Email
 ![Reminder Email](documentation/reminder-email.png)
-
 ## Future Enhancements
-
 - Google Calendar integration.
 - Appointment availability checking and conflict detection.
 - Appointment cancellation and rescheduling workflows.
