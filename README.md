@@ -65,6 +65,26 @@ The Google Sheets database tracks:
 
 Completed and activated. Both automation scenarios are configured for automatic execution.
 
+## Screenshots
+
+### 1. Appointment Booking Workflow
+![Booking Scenario](documentation/booking-scenario.png)
+
+### 2. Appointment Booking Form
+![Google Form](documentation/google-form.png)
+
+### 3. Appointment Tracking Spreadsheet
+![Google Sheet](documentation/google-sheet.png)
+
+### 4. Appointment Reminder Email
+![Reminder Email](documentation/reminder-email.png)
+
+### 5. Reminder Workflow
+![Reminder Workflow](documentation/follow-up-workflow.png)
+
+### 6. Reminder Filter Configuration
+![Reminder Filter](documentation/follow-up-filter.png)
+
 ## Future Enhancements
 
 - Google Calendar integration.
