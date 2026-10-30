@@ -76,14 +76,14 @@ Completed and activated. Both automation scenarios are configured for automatic 
 ### 3. Appointment Tracking Spreadsheet
 ![Google Sheet](documentation/google-sheet.png)
 
-### 4. Appointment Reminder Email
-![Reminder Email](documentation/reminder-email.png)
-
-### 5. Reminder Workflow
+### 4. Reminder Workflow
 ![Reminder Workflow](documentation/follow-up-workflow.png)
 
-### 6. Reminder Filter Configuration
+### 5. Reminder Filter Configuration
 ![Reminder Filter](documentation/follow-up-filter.png)
+
+### 6. Appointment Reminder Email
+![Reminder Email](documentation/reminder-email.png)
 
 ## Future Enhancements
 
